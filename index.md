@@ -10,11 +10,10 @@ This policy explains what personal data the PadelCam app for iPhone and Apple Wa
 
 ## 1. Who is responsible (controller)
 
-[DEVELOPER NAME / ADDRESS]
+Ibrahim Shawkey
 Germany
-Email: [CONTACT EMAIL]
+Email: plugins_17mansard@icloud.com
 
-[DATA PROTECTION OFFICER CONTACT, if appointed. Otherwise delete this line]
 
 ## 2. Summary
 
@@ -92,7 +91,7 @@ We use the following providers under data processing agreements (Art. 28 GDPR):
 We do not sell or rent personal data and do not share it for advertising.
 
 ## 6. Security
-All data is sent to our server and PostHog over encrypted connections (HTTPS/TLS). Access to the data is restricted to [DEVELOPER NAME / TEAM].
+All data is sent to our server and PostHog over encrypted connections (HTTPS/TLS). Access to the data is restricted to Ibrahim Shawkey.
 
 ## 7. Retention
 - **Account data:** kept until you delete your account. It is then erased within [ACCOUNT DELETION PERIOD, e.g. 30 days].
@@ -107,7 +106,7 @@ You can delete your profile anytime in **Settings > Account details > Delete pro
 
 Clips and reels on your device are removed when you delete the app. Reels you saved to Photos stay in Photos.
 
-To have analytics or support data deleted, email [CONTACT EMAIL].
+To have analytics or support data deleted, email plugins_17mansard@icloud.com.
 
 ## 9. Your rights
 Under the GDPR you have the right to:
@@ -119,7 +118,7 @@ Under the GDPR you have the right to:
 - **object** to processing based on legitimate interest (Art. 21)
 - **withdraw consent** at any time, without affecting earlier processing (Art. 7(3)). For analytics, simply turn off **Share analytics** in Settings.
 
-Contact [CONTACT EMAIL] to exercise these rights.
+Contact plugins_17mansard@icloud.com to exercise these rights.
 
 You may also lodge a complaint with a supervisory authority, for example the authority in your country or ours: [COMPETENT GERMAN STATE DATA PROTECTION AUTHORITY].
 
@@ -141,5 +140,5 @@ PadelCam is not directed at children under [MINIMUM AGE, e.g. 16]. We do not kno
 We may update this policy. The current version is always available at [PRIVACY POLICY URL], and the effective date above will change. We will tell you in the app about significant changes.
 
 ## 13. Contact
-[DEVELOPER NAME / ADDRESS]
-[CONTACT EMAIL]
+Ibrahim Shawkey
+plugins_17mansard@icloud.com
